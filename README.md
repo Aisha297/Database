@@ -27,3 +27,5 @@ TCL commands are used to manage transactions within a database. A transaction is
 2. ROLLBACK: Reverts the database to the last committed state, undoing any changes made since the last COMMIT.
 3. SAVEPOINT: Creates a marker within a transaction to which you can later roll back without affecting the entire transaction.
 4. SET TRANSACTION: Defines transaction properties, such as setting the isolation level.
+
+<img src="https://github.com/user-attachments/assets/ac1b2081-157d-4b81-abdb-80cbade637a6" width="1000" height="1000">
